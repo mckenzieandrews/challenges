@@ -2,6 +2,25 @@
 
 Write a program that can print the song "99 Bottles of Beer".
 
+i= 100
+
+while --> iterate through all 99 to 2 
+
+
+while i< 100
+  puts "#{i} bottles of beer on the wall, #{i} bottles of beer."
+  puts "Take one down and pass it around, #{i-1} bottles of beer on the wall."
+  i--;
+
+put "1 bottle of beer on the wall, 1 bottle of beer."
+put "Take one down and pass it around, no more bottles of beer on the wall."
+put "No more bottles of beer on the wall, no more bottles of beer."
+put "Go to the store and buy some more, 99 bottles of beer on the wall."
+
+
+
+
+
 ## The Song
 
 ```
